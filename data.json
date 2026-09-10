@@ -1,0 +1,4972 @@
+{
+  "schemaVersion": 1,
+  "name": "Climb Perform SR",
+  "workouts": [
+    {
+      "id": "uwkt-5820024",
+      "name": "Phase 1 Wk1 Day1 SR",
+      "duration": 60,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "32.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "35",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "10",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elevated Hip Thrust",
+              "tips": "Place Barbell over hips",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "20",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "20",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "90/90 ER Iso",
+              "tips": "Alternate side each rep. Needs to be heavy ~8.5/10 RPE",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "5",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "5",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Banded Dead Bug",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "10",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "10",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820032",
+      "name": "Aerobic Power 15:15 Wk1",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 3mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "3",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "180",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "3",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "180",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "3",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "180",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820025",
+      "name": "Phase 1 Wk1 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "32.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "35",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "10",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "BB Floor Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Powell Raise",
+              "tips": "Slow and controlled on the eccentric",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank with Band Pull Iso",
+              "tips": "Alternate side each rep. If too easy lift top leg up, as in a star position, and hold",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "2",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "10",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "2",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "10",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820033",
+      "name": "Aerobic Power 15:15 Wk1",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 3mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "3",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "180",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "3",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "180",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "3",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "180",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820026",
+      "name": "Phase 1 Wk2 Day1 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "Right Hand is as programmed but Left Hand is set 1=35kg, set2=37.5kg, set 3=40kg",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "32.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "35",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "10",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elevated Hip Thrust",
+              "tips": "Place Barbell over hips",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "25",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "25",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "90/90 ER Iso",
+              "tips": "Alternate side each rep. Needs to be heavy ~8.5/10 RPE",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "5",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "5",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Banded Dead Bug",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "10",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "10",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820034",
+      "name": "Aerobic Power 15:15 Wk2",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 4mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820027",
+      "name": "Phase 1 Wk2 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "32.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "35",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "10",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "BB Floor Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Powell Raise",
+              "tips": "Slow and controlled on the eccentric",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank with Band Pull Iso",
+              "tips": "Alternate side each rep. If too easy lift top leg up, as in a star position, and hold",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "2",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "15",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "2",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "15",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820035",
+      "name": "Aerobic Power 15:15 Wk2",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 4mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820028",
+      "name": "Phase 1 Wk3 Day1 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "35",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "40",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "17.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elevated Hip Thrust",
+              "tips": "Place Barbell over hips",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "30",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "30",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "30",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "90/90 ER Iso",
+              "tips": "Alternate side each rep. Needs to be heavy ~8.5/10 RPE",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "5",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "5",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Banded Dead Bug",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "10",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "10",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820036",
+      "name": "Aerobic Power 15:15 Wk3 Day 1",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 5mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820029",
+      "name": "Phase 1 Wk3 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "35",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "40",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "17.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "BB Floor Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Powell Raise",
+              "tips": "Slow and controlled on the eccentric",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank with Band Pull Iso",
+              "tips": "Alternate side each rep. If too easy lift top leg up, as in a star position, and hold",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820037",
+      "name": "Aerobic Power 15:15 Wk3 Day 1",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 5mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820030",
+      "name": "Phase 1 Wk4 Day1 SR",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 7,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "40",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Elevated Hip Thrust",
+              "tips": "Place Barbell over hips",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "30",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "30",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "90/90 ER Iso",
+              "tips": "Alternate side each rep. Needs to be heavy ~8.5/10 RPE",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": "e/s"
+                    },
+                    "Time": {
+                      "value": "5",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Banded Dead Bug",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "10",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820038",
+      "name": "Aerobic Power 15:15 Wk4",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 4mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820031",
+      "name": "Phase 1 Wk4 Day2 SR",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "Complete this workout first, then rest 10-15mins and move on to Aerobic Power Interval workout on Kilterboard",
+      "targetRpe": 7,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "40",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "15",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "BB Floor Press",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Powell Raise",
+              "tips": "Slow and controlled on the eccentric",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "8",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank with Band Pull Iso",
+              "tips": "If too easy lift top leg up, as in a star position, and hold",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5820039",
+      "name": "Aerobic Power 15:15 Wk4",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "The intensity needs to be correct. You are aiming for ~70-80% of your max boulder grade. You should have an elevated heart rate and breathing will be elevated also. You want significant but controlled forearm pump, roughly 7-8/10 pump.\nYou should not be failing.\n6-8 hand moves per 15second rep.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "Aerobic Power Intervals",
+          "exercises": [
+            {
+              "name": "Aerobic Power 15:15",
+              "tips": "15secs on : 15secs off x 4mins continuously",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Mins"
+                },
+                {
+                  "key": "Rest",
+                  "name": "Rest (secs)"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Time": {
+                      "value": "4",
+                      "unit": "mins"
+                    },
+                    "Rest": {
+                      "value": "240",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989312",
+      "name": "Phase2 Wk5 Day1 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "The emphasis on this phase is on power",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "37.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "40",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "42.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Be as explosive as possible, pull up with as much intent to move as fast as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": "Press as fast as possible, emphasis is on power - moving as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Explosive Step-up",
+              "tips": "Punch 5kg / 10kg plate over head as you step up. Hold top position for 2secs",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg range"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "1/4 Lever Iso Hold",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989313",
+      "name": "Phase2 Wk5 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Thew emphasis on this phase is on power.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "3second hang, 3second rest x 4reps",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Move as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Step Up Plate Press",
+              "tips": "Punch 5kg / 10kg plate overhead as you step up. Hold top position for 2secs",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg range"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row with speed but with good posture",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Secs e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989314",
+      "name": "Phase2 Wk6 Day1 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "The emphasis on this phase is on power",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "40",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "42.5",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "2",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "45",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Be as explosive as possible, pull up with as much intent to move as fast as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 5,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": "Press as fast as possible, emphasis is on power - moving as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Explosive Step-up",
+              "tips": "Punch 5kg / 10kg plate over head as you step up. Hold top position for 2secs",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg range"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "1/4 Lever Iso Hold",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989315",
+      "name": "Phase2 Wk6 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Thew emphasis on this phase is on power.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "3second hang, 3second rest x 4reps",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Move as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                },
+                {
+                  "number": 5,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Step Up Plate Press",
+              "tips": "Punch 5kg / 10kg plate overhead as you step up. Hold top position for 2secs",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg range"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    },
+                    "Load": {
+                      "value": null,
+                      "unit": "kg",
+                      "range": [
+                        "5",
+                        "10"
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row with speed but with good posture",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Secs e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989316",
+      "name": "Phase2 Wk7 Day1 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "The emphasis on this phase is on power",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "45",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "45",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "45",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Be as explosive as possible, pull up with as much intent to move as fast as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 5,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": "Press as fast as possible, emphasis is on power - moving as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Explosive Step-up",
+              "tips": "Holding a dumbell in each hand just step up explosively",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "1/4 Lever Iso Hold",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989317",
+      "name": "Phase2 Wk7 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Thew emphasis on this phase is on power.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "3second hang, 3second rest x 4reps",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Move as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 5,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Explosive Step-up",
+              "tips": "Holding a dumbell in each hand just step up explosively",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row with speed but with good posture",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Secs e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989318",
+      "name": "Phase2 Wk8 Day1 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "The emphasis on this phase is on power",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "45",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "45",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "45",
+                      "unit": "kg"
+                    },
+                    "Time": {
+                      "value": "2",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Be as explosive as possible, pull up with as much intent to move as fast as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 5,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "SA Landmine Press",
+              "tips": "Press as fast as possible, emphasis is on power - moving as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Explosive Step-up",
+              "tips": "Holding a dumbell in each hand just step up explosively",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "4",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "1/4 Lever Iso Hold",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-5989319",
+      "name": "Phase2 Wk8 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Thew emphasis on this phase is on power.",
+      "targetRpe": 8,
+      "sections": [
+        {
+          "name": "A",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "3second hang, 3second rest x 4reps",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Time",
+                  "name": "Secs"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Time": {
+                      "value": "3",
+                      "unit": "secs"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "exercises": [
+            {
+              "name": "Pull-up",
+              "tips": "Move as explosively as possible",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 3,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 4,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 5,
+                  "targets": {
+                    "Reps": {
+                      "value": "3",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "7.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "exercises": [
+            {
+              "name": "Explosive Step-up",
+              "tips": "Holding a dumbell in each hand just step up explosively",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "5",
+                      "unit": "e/s"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row with speed but with good posture",
+              "metrics": [
+                {
+                  "key": "Reps",
+                  "name": "Reps"
+                },
+                {
+                  "key": "Load",
+                  "name": "kg"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Reps": {
+                      "value": "6",
+                      "unit": ""
+                    },
+                    "Load": {
+                      "value": "12.5",
+                      "unit": "kg"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": " ",
+              "metrics": [
+                {
+                  "key": "Time",
+                  "name": "Secs e/s"
+                }
+              ],
+              "sets": [
+                {
+                  "number": 1,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                },
+                {
+                  "number": 2,
+                  "targets": {
+                    "Time": {
+                      "value": "20",
+                      "unit": "secs e/s"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
