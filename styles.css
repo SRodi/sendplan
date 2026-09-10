@@ -35,9 +35,14 @@ body.ready .app-shell { opacity: 1; }
 .topbar h1 { font-size: 22px; }
 .eyebrow { margin: 0 0 4px; color: var(--accent); font-size: 10px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
 
-.phase-tabs { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; padding: 10px 18px; }
+.phase-tabs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; padding: 10px 18px; }
 .phase-button { min-height: 46px; border: 1px solid var(--line); border-radius: 5px; background: var(--surface); color: var(--muted); font-family: var(--display); font-size: 18px; font-weight: 700; text-transform: uppercase; }
 .phase-button.active { border-color: var(--accent); background: var(--accent); color: var(--accent-ink); }
+.phase-overview { padding: 0 18px 12px; }
+.phase-overview details { margin: 0; padding: 0 12px 12px; border: 1px solid var(--line); border-radius: 5px; background: var(--surface); }
+.phase-overview details summary { padding: 12px 0 0; font-family: var(--display); font-size: 16px; text-transform: uppercase; }
+.phase-overview details p { margin-top: 12px; }
+.phase-overview details strong { display: block; margin-bottom: 2px; color: var(--ink); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
 .workout-strip { display: flex; gap: 8px; overflow-x: auto; padding: 2px 18px 20px; scrollbar-width: none; }
 .workout-strip::-webkit-scrollbar { display: none; }
 .session-button { flex: 0 0 auto; min-height: 38px; padding: 0 12px; border: 1px solid var(--line); border-radius: 5px; background: transparent; color: var(--muted); font-size: 10px; font-weight: 800; text-transform: uppercase; }
@@ -68,12 +73,25 @@ details p { white-space: pre-line; }
 .metric-value small { color: var(--muted); font-size: 8px; }
 .metric-empty { text-align: center; color: var(--muted); }
 .load-error { padding: 40px 18px; color: var(--muted); text-align: center; }
+.legend { padding: 20px 18px; border-top: 1px solid var(--line); background: #111411; }
+.legend details { margin: 0; border: 0; }
+.legend details summary { padding: 0; font-family: var(--display); font-size: 18px; text-transform: uppercase; }
+.legend-content { padding-top: 16px; }
+.legend dl { display: grid; gap: 0; margin: 0; }
+.legend dl div { display: grid; grid-template-columns: 86px 1fr; gap: 12px; padding: 9px 0; border-top: 1px solid var(--line); }
+.legend dt { color: var(--accent); font-size: 11px; font-weight: 800; }
+.legend dd { margin: 0; color: #b8beb5; font-size: 12px; line-height: 1.55; }
+.load-guide { margin-top: 14px; padding-top: 16px; border-top: 1px solid var(--line); }
+.load-guide h2 { font-family: var(--display); font-size: 20px; text-transform: uppercase; }
+.load-guide p { margin-top: 10px; color: #b8beb5; font-size: 12px; line-height: 1.65; }
+.load-guide code { display: block; overflow-x: auto; margin-top: 10px; padding: 10px; border: 1px solid var(--line); border-radius: 4px; background: #0e110e; color: var(--ink); font-size: 11px; white-space: nowrap; }
+.load-guide p code { display: inline; margin: 0; padding: 1px 3px; border: 0; background: transparent; color: var(--ink); white-space: normal; }
 footer { display: flex; justify-content: space-between; padding: 22px 18px calc(22px + env(safe-area-inset-bottom)); border-top: 1px solid var(--line); color: #656b64; font-size: 9px; font-weight: 800; letter-spacing: .08em; }
 
 @media (min-width: 700px) {
   body { padding: 24px 0; }
   .app-shell { min-height: calc(100vh - 48px); border: 1px solid var(--line); box-shadow: 0 20px 70px rgba(0,0,0,.35); }
-  .topbar, .phase-tabs, .workout-strip, .workout-hero, .exercise { padding-right: 28px; padding-left: 28px; }
+  .topbar, .phase-tabs, .phase-overview, .workout-strip, .workout-hero, .exercise, .legend { padding-right: 28px; padding-left: 28px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

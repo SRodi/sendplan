@@ -2,9 +2,11 @@ import { renderApp } from "./ui.js";
 
 let program;
 let selectedPhase = 1;
-      document.querySelector("#workout-strip").scrollLeft = 0;
 let selectedWorkoutId;
-const phaseFor = (workout) => Number(workout.name.match(/Wk\s*(\d+)/i)?.[1]) <= 4 ? 1 : 2;
+const phaseFor = (workout) => {
+  const week = Number(workout.name.match(/Wk\s*(\d+)/i)?.[1]);
+  return Math.min(Math.ceil(week / 4), 4);
+};
 
 function render() {
   const workouts = program.workouts.filter((workout) => phaseFor(workout) === selectedPhase);

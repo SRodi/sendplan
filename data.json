@@ -4967,6 +4967,812 @@
           ]
         }
       ]
+    },
+    {
+      "id": "uwkt-phase3-d1w9",
+      "name": "Phase 3 Wk9 Day1 SR",
+      "duration": 60,
+      "durationUnit": "mins",
+      "description": "Max recruitment strength followed by high-quality Kilterboard power intervals. Stop a set if force or movement speed drops.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "Maximum intent on every lift. Rest 3-4 minutes between sets.",
+              "metrics": [
+                { "key": "Reps", "name": "Reps" },
+                { "key": "Load", "name": "kg" },
+                { "key": "Time", "name": "Secs" }
+              ],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "47.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "47.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 3, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "47.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Accelerate through every rep. Rest 3 minutes between sets.",
+              "metrics": [
+                { "key": "Reps", "name": "Reps" },
+                { "key": "Load", "name": "kg" }
+              ],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "10", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "10", "unit": "kg" } } },
+                { "number": 3, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "10", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "BB Floor Press (Chest Press)",
+              "tips": "Use your current estimated 1RM, not an all-time best. Press explosively at RPE 7; stop the set if bar speed clearly drops.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "5", "unit": "" }, "Load": { "value": "65", "unit": "% e1RM" } } },
+                { "number": 2, "targets": { "Reps": { "value": "5", "unit": "" }, "Load": { "value": "65", "unit": "% e1RM" } } }
+              ]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": "Control the descent, then drive up explosively. Use total dumbbell load at RPE 7-8 and retain two to three reps in reserve.",
+              "metrics": [{ "key": "Reps", "name": "Reps e/s" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "5", "unit": "e/s" }, "Load": { "value": "70", "unit": "% e1RM" } } },
+                { "number": 2, "targets": { "Reps": { "value": "5", "unit": "e/s" }, "Load": { "value": "70", "unit": "% e1RM" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kilterboard Power Intervals",
+          "exercises": [
+            {
+              "name": "Kilterboard Limit Power",
+              "tips": "Climb for 10 seconds near limit grade. Use maximal-quality moves and step off before power fades.",
+              "metrics": [
+                { "key": "Time", "name": "Secs" },
+                { "key": "Rest", "name": "Rest (secs)" }
+              ],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 2, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 3, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 4, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase3-d2w9",
+      "name": "Phase 3 Wk9 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Max-effort recruitment with low reps and complete recovery. Every working rep should be crisp.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "Pull into the edge as rapidly as possible. Rest 3 minutes between sets.",
+              "metrics": [
+                { "key": "Reps", "name": "Reps" },
+                { "key": "Time", "name": "Secs" }
+              ],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } },
+                { "number": 3, "targets": { "Reps": { "value": "3", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Maximum acceleration from a dead hang. Rest 3 minutes between sets.",
+              "metrics": [
+                { "key": "Reps", "name": "Reps" },
+                { "key": "Load", "name": "kg" }
+              ],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "10", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "10", "unit": "kg" } } },
+                { "number": 3, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "10", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row explosively without losing trunk position.",
+              "metrics": [
+                { "key": "Reps", "name": "Reps" },
+                { "key": "Load", "name": "kg" }
+              ],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "5", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "5", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }
+              ]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": "Maintain full-body tension without reaching fatigue.",
+              "metrics": [{ "key": "Time", "name": "Secs e/s" }],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "15", "unit": "secs e/s" } } },
+                { "number": 2, "targets": { "Time": { "value": "15", "unit": "secs e/s" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase3-d1w10",
+      "name": "Phase 3 Wk10 Day1 SR",
+      "duration": 60,
+      "durationUnit": "mins",
+      "description": "Max recruitment strength followed by high-quality Kilterboard power intervals. Stop a set if force or movement speed drops.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "Maximum intent on every lift. Rest 3-4 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }, { "key": "Time", "name": "Secs" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "50", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "50", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 3, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "50", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Accelerate through every rep. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "12.5", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "12.5", "unit": "kg" } } },
+                { "number": 3, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "12.5", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "BB Floor Press (Chest Press)",
+              "tips": "Use your current estimated 1RM. Press explosively at RPE 7-8; stop the set if bar speed clearly drops.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "4", "unit": "" }, "Load": { "value": "70", "unit": "% e1RM" } } }, { "number": 2, "targets": { "Reps": { "value": "4", "unit": "" }, "Load": { "value": "70", "unit": "% e1RM" } } }]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": "Control the descent, then drive up explosively. Use total dumbbell load at RPE 7-8 and retain two to three reps in reserve.",
+              "metrics": [{ "key": "Reps", "name": "Reps e/s" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "4", "unit": "e/s" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }, { "number": 2, "targets": { "Reps": { "value": "4", "unit": "e/s" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Kilterboard Power Intervals",
+          "exercises": [
+            {
+              "name": "Kilterboard Limit Power",
+              "tips": "Climb for 10 seconds near limit grade. Use maximal-quality moves and step off before power fades.",
+              "metrics": [{ "key": "Time", "name": "Secs" }, { "key": "Rest", "name": "Rest (secs)" }],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 2, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 3, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 4, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 5, "targets": { "Time": { "value": "10", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase3-d2w10",
+      "name": "Phase 3 Wk10 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Max-effort recruitment with low reps and complete recovery. Every working rep should be crisp.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "Pull into the edge as rapidly as possible. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Time", "name": "Secs" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } },
+                { "number": 3, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Maximum acceleration from a dead hang. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "12.5", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "12.5", "unit": "kg" } } },
+                { "number": 3, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "12.5", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row explosively without losing trunk position.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "5", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }, { "number": 2, "targets": { "Reps": { "value": "5", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": "Maintain full-body tension without reaching fatigue.",
+              "metrics": [{ "key": "Time", "name": "Secs e/s" }],
+              "sets": [{ "number": 1, "targets": { "Time": { "value": "15", "unit": "secs e/s" } } }, { "number": 2, "targets": { "Time": { "value": "15", "unit": "secs e/s" } } }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase3-d1w11",
+      "name": "Phase 3 Wk11 Day1 SR",
+      "duration": 60,
+      "durationUnit": "mins",
+      "description": "Peak loading for max recruitment followed by high-quality Kilterboard power intervals.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "Maximum intent on every lift. Rest 3-4 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }, { "key": "Time", "name": "Secs" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "52.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "52.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 3, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "52.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Accelerate through every rep. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } },
+                { "number": 3, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "BB Floor Press (Chest Press)",
+              "tips": "Use your current estimated 1RM. Press explosively at RPE 8; stop the set if bar speed clearly drops.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "75", "unit": "% e1RM" } } }, { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "75", "unit": "% e1RM" } } }]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": "Control the descent, then drive up explosively. Use total dumbbell load at RPE 8 and retain two reps in reserve.",
+              "metrics": [{ "key": "Reps", "name": "Reps e/s" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "e/s" }, "Load": { "value": "75", "unit": "% e1RM" } } }, { "number": 2, "targets": { "Reps": { "value": "3", "unit": "e/s" }, "Load": { "value": "75", "unit": "% e1RM" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Kilterboard Power Intervals",
+          "exercises": [
+            {
+              "name": "Kilterboard Limit Power",
+              "tips": "Climb for 8 seconds near limit grade. Use maximal-quality moves and step off before power fades.",
+              "metrics": [{ "key": "Time", "name": "Secs" }, { "key": "Rest", "name": "Rest (secs)" }],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 2, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 3, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 4, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 5, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase3-d2w11",
+      "name": "Phase 3 Wk11 Day2 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Peak recruitment with full recovery and strict velocity quality.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "Pull into the edge as rapidly as possible. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Time", "name": "Secs" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } },
+                { "number": 3, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Maximum acceleration from a dead hang. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } },
+                { "number": 3, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row explosively without losing trunk position.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "4", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }, { "number": 2, "targets": { "Reps": { "value": "4", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": "Maintain full-body tension without reaching fatigue.",
+              "metrics": [{ "key": "Time", "name": "Secs e/s" }],
+              "sets": [{ "number": 1, "targets": { "Time": { "value": "15", "unit": "secs e/s" } } }, { "number": 2, "targets": { "Time": { "value": "15", "unit": "secs e/s" } } }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase3-d1w12",
+      "name": "Phase 3 Wk12 Day1 SR",
+      "duration": 55,
+      "durationUnit": "mins",
+      "description": "Phase 3 consolidation: retain peak intensity while trimming one strength set before peaking.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "Maximum intent on every lift. Rest 4 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }, { "key": "Time", "name": "Secs" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "52.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "52.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Accelerate through every rep. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "BB Floor Press (Chest Press)",
+              "tips": "Use your current estimated 1RM. Press explosively at RPE 7-8; finish every rep fast before the peaking phase.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }, { "number": 2, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": "Control the descent, then drive up explosively. Use total dumbbell load at RPE 7-8 and leave two to three reps in reserve.",
+              "metrics": [{ "key": "Reps", "name": "Reps e/s" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "e/s" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }, { "number": 2, "targets": { "Reps": { "value": "3", "unit": "e/s" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Kilterboard Power Intervals",
+          "exercises": [
+            {
+              "name": "Kilterboard Limit Power",
+              "tips": "Climb for 8 seconds near limit grade. Use maximal-quality moves and step off before power fades.",
+              "metrics": [{ "key": "Time", "name": "Secs" }, { "key": "Rest", "name": "Rest (secs)" }],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 2, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 3, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } },
+                { "number": 4, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "120", "unit": "secs" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase3-d2w12",
+      "name": "Phase 3 Wk12 Day2 SR",
+      "duration": 40,
+      "durationUnit": "mins",
+      "description": "Phase 3 consolidation with peak intensity, reduced volume, and complete recovery.",
+      "targetRpe": 9,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "Pull into the edge as rapidly as possible. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Time", "name": "Secs" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }, { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Maximum acceleration from a dead hang. Rest 3 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }, { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Explosive Accessories",
+          "exercises": [
+            {
+              "name": "Chest Supported Row",
+              "tips": "Row explosively without losing trunk position.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "4", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }, { "number": 2, "targets": { "Reps": { "value": "4", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }]
+            },
+            {
+              "name": "Side Plank Star w/ Band Pull Iso",
+              "tips": "Maintain full-body tension without reaching fatigue.",
+              "metrics": [{ "key": "Time", "name": "Secs e/s" }],
+              "sets": [{ "number": 1, "targets": { "Time": { "value": "15", "unit": "secs e/s" } } }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase4-d1w13",
+      "name": "Phase 4 Wk13 Day1 SR",
+      "duration": 45,
+      "durationUnit": "mins",
+      "description": "Peaking session: highest-quality recruitment with ultra-low volume and long recovery.",
+      "targetRpe": 9.5,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "Only maximal-quality reps. Rest 4-5 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }, { "key": "Time", "name": "Secs" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "55", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "55", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Explode from a dead hang and stop before velocity loss.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maintenance Accessories",
+          "exercises": [
+            {
+              "name": "BB Floor Press (Chest Press)",
+              "tips": "Use your current estimated 1RM. One fast maintenance set at RPE 8; do not grind or approach failure.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "75", "unit": "% e1RM" } } }]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": "One crisp set using total dumbbell load. Drive up fast at RPE 8 and retain two reps in reserve.",
+              "metrics": [{ "key": "Reps", "name": "Reps e/s" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "e/s" }, "Load": { "value": "75", "unit": "% e1RM" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Kilterboard Performance",
+          "exercises": [
+            {
+              "name": "Kilterboard Limit Attempts",
+              "tips": "Use one to three maximal moves from a performance project. End each attempt while power is high.",
+              "metrics": [{ "key": "Time", "name": "Secs" }, { "key": "Rest", "name": "Rest (secs)" }],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } },
+                { "number": 2, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } },
+                { "number": 3, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } },
+                { "number": 4, "targets": { "Time": { "value": "8", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase4-d2w13",
+      "name": "Phase 4 Wk13 Day2 SR",
+      "duration": 30,
+      "durationUnit": "mins",
+      "description": "Low-volume recruitment primer. Finish fresher than you started.",
+      "targetRpe": 9.5,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "Apply force instantly, then relax fully between efforts.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Time", "name": "Secs" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }, { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Maximum acceleration; no grinding reps.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }, { "number": 2, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Maintenance Accessories",
+          "exercises": [
+            {
+              "name": "Chest Supported Row",
+              "tips": "Fast, crisp maintenance work only.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase4-d1w14",
+      "name": "Phase 4 Wk14 Day1 SR",
+      "duration": 40,
+      "durationUnit": "mins",
+      "description": "Peak intensity with declining volume. Protect movement quality and avoid residual fatigue.",
+      "targetRpe": 9.5,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "Only maximal-quality reps. Rest 4-5 minutes between sets.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }, { "key": "Time", "name": "Secs" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "55", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } },
+                { "number": 2, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "55", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } }
+              ]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Explode from a dead hang and stop before velocity loss.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [
+                { "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "20", "unit": "kg" } } },
+                { "number": 2, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "20", "unit": "kg" } } }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maintenance Accessories",
+          "exercises": [
+            {
+              "name": "BB Floor Press (Chest Press)",
+              "tips": "Use your current estimated 1RM. One fast maintenance set at RPE 7-8; avoid soreness and grinding.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": "One crisp set using total dumbbell load. Drive up fast at RPE 7-8 and retain two to three reps in reserve.",
+              "metrics": [{ "key": "Reps", "name": "Reps e/s" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "e/s" }, "Load": { "value": "72.5", "unit": "% e1RM" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Kilterboard Performance",
+          "exercises": [
+            {
+              "name": "Kilterboard Limit Attempts",
+              "tips": "Use one to three maximal moves from a performance project. End each attempt while power is high.",
+              "metrics": [{ "key": "Time", "name": "Secs" }, { "key": "Rest", "name": "Rest (secs)" }],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "7", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } },
+                { "number": 2, "targets": { "Time": { "value": "7", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } },
+                { "number": 3, "targets": { "Time": { "value": "7", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase4-d2w14",
+      "name": "Phase 4 Wk14 Day2 SR",
+      "duration": 25,
+      "durationUnit": "mins",
+      "description": "Brief neural primer with no fatigue work.",
+      "targetRpe": 9.5,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "Apply force instantly, then relax fully between efforts.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Time", "name": "Secs" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }, { "number": 2, "targets": { "Reps": { "value": "1", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "Maximum acceleration; no grinding reps.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "20", "unit": "kg" } } }, { "number": 2, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "20", "unit": "kg" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Maintenance Accessories",
+          "exercises": [
+            {
+              "name": "Chest Supported Row",
+              "tips": "Fast, crisp maintenance work only.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase4-d1w15",
+      "name": "Phase 4 Wk15 Day1 Taper",
+      "duration": 25,
+      "durationUnit": "mins",
+      "description": "Final taper: approximately 50% of prior-week volume while intensity stays high. Finish every effort fresh.",
+      "targetRpe": 9.5,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp Block Lifts",
+              "tips": "One maximal-quality recruitment rep only.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }, { "key": "Time", "name": "Secs" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "52.5", "unit": "kg" }, "Time": { "value": "2", "unit": "secs" } } }]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "One maximal-speed rep; no grinding.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Maintenance Accessories",
+          "exercises": [
+            {
+              "name": "BB Floor Press (Chest Press)",
+              "tips": "Final primer using your current estimated 1RM. Move every rep fast at RPE 7 and stop well before fatigue.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "2", "unit": "" }, "Load": { "value": "70", "unit": "% e1RM" } } }]
+            },
+            {
+              "name": "RFE DB Split Squat",
+              "tips": "Final primer using total dumbbell load. Drive up fast at RPE 7 and stop well before fatigue.",
+              "metrics": [{ "key": "Reps", "name": "Reps e/s" }, { "key": "Load", "name": "% e1RM" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "2", "unit": "e/s" }, "Load": { "value": "70", "unit": "% e1RM" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Kilterboard Performance",
+          "exercises": [
+            {
+              "name": "Kilterboard Power Primer",
+              "tips": "Two brief maximal bursts on familiar moves. Stop well before fatigue.",
+              "metrics": [{ "key": "Time", "name": "Secs" }, { "key": "Rest", "name": "Rest (secs)" }],
+              "sets": [
+                { "number": 1, "targets": { "Time": { "value": "7", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } },
+                { "number": 2, "targets": { "Time": { "value": "7", "unit": "secs" }, "Rest": { "value": "180", "unit": "secs" } } }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uwkt-phase4-d2w15",
+      "name": "Phase 4 Wk15 Day2 Taper",
+      "duration": 20,
+      "durationUnit": "mins",
+      "description": "Final neural primer at half volume. Skip this session if performance day is within 48 hours.",
+      "targetRpe": 9.5,
+      "sections": [
+        {
+          "name": "Fingers & Pulls",
+          "exercises": [
+            {
+              "name": "Half Crimp RFD Hangs",
+              "tips": "One rapid force effort only.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Time", "name": "Secs" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Time": { "value": "3", "unit": "secs" } } }]
+            },
+            {
+              "name": "Pull-up",
+              "tips": "One maximal-speed rep; no grinding.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "1", "unit": "" }, "Load": { "value": "17.5", "unit": "kg" } } }]
+            }
+          ]
+        },
+        {
+          "name": "Maintenance Accessories",
+          "exercises": [
+            {
+              "name": "Chest Supported Row",
+              "tips": "One crisp maintenance set only.",
+              "metrics": [{ "key": "Reps", "name": "Reps" }, { "key": "Load", "name": "kg" }],
+              "sets": [{ "number": 1, "targets": { "Reps": { "value": "3", "unit": "" }, "Load": { "value": "15", "unit": "kg" } } }]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

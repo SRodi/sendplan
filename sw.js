@@ -1,4 +1,4 @@
-const CACHE = "training-shell-v12";
+const CACHE = "training-shell-v17";
 const SHELL = [
   "./",
   "./index.html",

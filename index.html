@@ -27,13 +27,43 @@
     </header>
 
     <nav id="phase-tabs" class="phase-tabs" aria-label="Training phases"></nav>
+    <div id="phase-overview" class="phase-overview"></div>
     <nav id="workout-strip" class="workout-strip" aria-label="Training sessions"></nav>
 
     <main>
       <div id="workout-view"></div>
     </main>
 
-    <footer><span>TRAINING LOG</span><span>8 week program</span></footer>
+    <aside class="legend" aria-label="Training abbreviations and load guide">
+      <details>
+        <summary>Abbreviations &amp; load guide</summary>
+        <div class="legend-content">
+          <dl>
+            <div><dt>1RM</dt><dd>One-repetition maximum: the heaviest load you can lift once with sound technique.</dd></div>
+            <div><dt>e1RM</dt><dd>Estimated one-repetition maximum, calculated from a multi-repetition set.</dd></div>
+            <div><dt>RPE</dt><dd>Rating of perceived exertion on a 1-10 scale. RPE 8 means about two good reps remain; RPE 9 means one remains; RPE 10 is a true maximum.</dd></div>
+            <div><dt>RFD</dt><dd>Rate of force development: how quickly force is produced.</dd></div>
+            <div><dt>RFE</dt><dd>Rear-foot elevated.</dd></div>
+            <div><dt>BB / DB / SA</dt><dd>Barbell / dumbbell / single-arm.</dd></div>
+            <div><dt>ER / Iso</dt><dd>External rotation / isometric hold.</dd></div>
+            <div><dt>SR</dt><dd>Strength/resistance session.</dd></div>
+            <div><dt>Wk / reps / e/s</dt><dd>Week / repetitions / each side.</dd></div>
+            <div><dt>w/</dt><dd>With.</dd></div>
+            <div><dt>kg / mins / secs</dt><dd>Kilograms / minutes / seconds.</dd></div>
+          </dl>
+
+          <div class="load-guide">
+            <h2>How to calculate % e1RM</h2>
+            <p>Use a recent, technically sound set of 3-8 reps for the same exercise. A set near RPE 9-10 gives the most useful estimate.</p>
+            <code>e1RM = load x (1 + reps / 30)</code>
+            <p><strong>Example:</strong> 40 kg for 5 reps gives <code>40 x (1 + 5 / 30) = 46.7 kg</code>. A 70% prescription is <code>46.7 x 0.70 = 32.7 kg</code>, rounded to the nearest available load, usually 32.5 kg.</p>
+            <p>For split squats, use the total load held in both hands and the reps completed on the weaker side. Recalculate when a recent set changes. If the prescribed load exceeds the stated RPE or rep speed slows, reduce it by 2.5-5%; quality takes priority over the estimate.</p>
+          </div>
+        </div>
+      </details>
+    </aside>
+
+    <footer><span>TRAINING LOG</span><span>15 week program</span></footer>
   </div>
 
   <script type="module" src="./js/app.js"></script>
